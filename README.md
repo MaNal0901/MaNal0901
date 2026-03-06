@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header with gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6B9D,50:C44DFF,100:4D79FF&height=200&section=header&text=Manal%20Echalh&fontSize=55&fontColor=fff&fontAlignY=38&desc=AI%20Engineering%20Student%20%7C%20Data%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C44DFF,100:4D79FF&height=200&section=header&text=Manal%20Echalh&fontSize=55&fontColor=fff&fontAlignY=38&desc=AI%20Engineering%20Student%20%7C%20Data%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -27,24 +27,14 @@
 
 ## 🌸 About Me
 
-```python
-class Manal(AIEngineer):
-    
-    def __init__(self):
-        self.name       = "Manal Echalh"
-        self.location   = "Casablanca, Morocco 🇲🇦"
-        self.school     = "ENSAM Casablanca"
-        self.major      = "AI & Computer Engineering"
-        self.passion    = ["Machine Learning", "Data Science", "Web Dev"]
-        self.currently  = "Building a Diabetes Prediction ML Model 🩺"
-        self.fun_fact   = "I turn coffee ☕ into code and data into decisions 📊"
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 💜")
+> *Hey, I'm Echalh Manal ✦ ai student · data dreamer · building the future one model at a time · casablanca 🇲🇦*
 
-me = Manal()
-me.say_hi()
-```
+| | |
+|---|---|
+| 🎓 | ENSAM Casablanca — AI & Computer Engineering |
+| 🔭 | Currently building a Diabetes Prediction ML model |
+| 💡 | Passionate about ML, Data Science & Web Dev |
+| 🌍 | Casablanca, Morocco |
 
 ---
 
@@ -140,6 +130,6 @@ me.say_hi()
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:4D79FF,50:C44DFF,100:FF6B9D&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4D79FF,50:C44DFF,100:FF6B9D&height=120&section=footer&animation=fadeIn" />
 
 </div>
