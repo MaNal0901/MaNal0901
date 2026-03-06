@@ -26,7 +26,7 @@
 ---
 
 ## 🌸 Hey there, I'm Manal Echalh! 👋
-✨ AI & Computer Engineering Student at <br> ENSAM Casablanca</br> | Passionate about ML & Web Development ✨
+✨ AI & Computer Engineering Student at ** ENSAM Casablanca ** | Passionate about ML & Web Development ✨
 
 💡 **About Me**
 * 🎓 Studying AI & Computer Engineering at ENSAM Casablanca
@@ -69,21 +69,6 @@
 ![Git](https://img.shields.io/badge/Git-C44DFF?style=for-the-badge&logo=git&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-4D79FF?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-</div>
-
----
-
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ECHALH-MANAL&show_icons=true&theme=radical&bg_color=0D0D1A&title_color=C44DFF&icon_color=FF6B9D&text_color=ffffff&border_color=C44DFF&border_radius=15&hide_border=false" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ECHALH-MANAL&layout=compact&theme=radical&bg_color=0D0D1A&title_color=C44DFF&text_color=ffffff&border_color=C44DFF&border_radius=15" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ECHALH-MANAL&theme=radical&background=0D0D1A&ring=C44DFF&fire=FF6B9D&currStreakLabel=4D79FF&border=C44DFF&border_radius=15" />
 </div>
 
 
