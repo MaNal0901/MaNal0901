@@ -12,7 +12,7 @@
 
 <!-- Profile views & socials -->
 <p>
-  <a href="mailto:echalhmanal@gmail.com">
+ <a href="https://mail.google.com/mail/?view=cm&to=echalhmanal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/manal-echalh-178943316/">
@@ -81,7 +81,7 @@
 
 <br/>
 
-<a href="mailto:echalhmanal@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=echalhmanal@gmail.com">
   <img src="https://img.shields.io/badge/Say%20Hello!-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
