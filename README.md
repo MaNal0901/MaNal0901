@@ -25,16 +25,13 @@
 
 ---
 
-## 🌸 About Me
+## 🌸 Hey there, I'm Manal Echalh! 👋
+✨ AI & Computer Engineering Student at <br> ENSAM Casablanca</br> | Passionate about ML & Web Development ✨
 
-> *Hey, I'm Echalh Manal ✦ ai student · data dreamer · building the future one model at a time · casablanca 🇲🇦*
-
-| | |
-|---|---|
-| 🎓 | ENSAM Casablanca — AI & Computer Engineering |
-| 🔭 | Currently building a Diabetes Prediction ML model |
-| 💡 | Passionate about ML, Data Science & Web Dev |
-| 🌍 | Casablanca, Morocco |
+💡 **About Me**
+* 🎓 Studying AI & Computer Engineering at ENSAM Casablanca
+* ⚡ Building things that matter, one algorithm at a time
+* 🌱 Always learning, always growing — one commit at a time
 
 ---
 
@@ -76,22 +73,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🩺 **Diabetes Prediction AI** | ML model predicting diabetes from real medical data | Python · Pandas · Scikit-learn · Matplotlib |
-| 🏥 **Medical Cabinet App** | Web app managing appointments, patients & doctors | Spring Boot · Java · SQL |
-| 🎬 **Film Explorer** | Interactive movie search & review platform | React · JavaScript |
-| 🌐 **NetOne Official Website** | Designed & deployed a company's official website | HTML · CSS · JS · PHP |
-
-</div>
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
@@ -105,14 +86,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ECHALH-MANAL&theme=radical&background=0D0D1A&ring=C44DFF&fire=FF6B9D&currStreakLabel=4D79FF&border=C44DFF&border_radius=15" />
 </div>
 
----
-
-## 🌱 Currently
-
-- 🤖 Building a **Diabetes Prediction** ML model
-- 📚 Deepening expertise in **Deep Learning** & **NLP**
-- 🎯 Preparing for exciting **AI internships** in 2026
-- 💡 Active member of **GDG ENSAM Casablanca** (former Secretary General)
 
 ---
 
