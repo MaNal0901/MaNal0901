@@ -12,7 +12,6 @@
 
 <!-- Profile views & socials -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ECHALH-MANAL&style=for-the-badge&color=C44DFF&label=PROFILE+VIEWS" />
   <a href="mailto:echalhmanal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -26,7 +25,7 @@
 ---
 
 ## 🌸 Hey there, I'm Manal Echalh! 👋
-✨ AI & Computer Engineering Student at ** ENSAM Casablanca ** | Passionate about ML & Web Development ✨
+✨ AI & Computer Engineering Student at **ENSAM Casablanca** | Passionate about ML & Web Development ✨
 
 💡 **About Me**
 * 🎓 Studying AI & Computer Engineering at ENSAM Casablanca
